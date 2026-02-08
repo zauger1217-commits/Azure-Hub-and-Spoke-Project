@@ -9,6 +9,7 @@ This lab walks through a **cloud-engineer-style** build of a secure Azure networ
 - Configure **VNet peering** and validate **non-transitive** behavior
 - Compare **Load Balancer vs Application Gateway**
 - Configure a **Private Endpoint** + **Private DNS**, and validate private resolution
+- Click this link with the set up of this envirnment using Terraform https://github.com/zauger1217-commits/azure-hub-spoke-terraform/tree/main
 
 ---
 
